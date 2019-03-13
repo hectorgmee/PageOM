@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Report Suite">
+    <test name="Resport Test">
+        <classes>
+            <class name="Guru99LoginTest"></class>
+        </classes>
+    </test>
+</suite>
